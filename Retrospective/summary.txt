@@ -1,0 +1,10 @@
+I resolved the merge conflict in part E1 by moving "git version 2.45.2.windows.1" down two lines and accepting the current change in the Merge Editor on VSCode. I then tried again to merge the brances successfully.
+
+In part C1, the three changes I made were:
+
+1. I corrected the spelling of "happilly" to "happily" on line 57 of about.html
+
+2. I capitilized "They" on line 58 of customers.html. It is the beginning of a sentence and needs to be capitilized.
+
+3. I corrected the spelling of "realy" to "really" on line 75 of index.html
+
